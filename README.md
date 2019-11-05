@@ -7,6 +7,6 @@ This is the gateway point to owr microservices archeticture.
 *	[Ecommerce-MicroService-Payment](https://github.com/othmaneHadouani/Ecommerce-MicroService-Payment).
 *	[Ecommerce-MicroService-Orders](https://github.com/othmaneHadouani/Ecommerce-MicroService-Orders).
 
-This is the gateway point to Front end.
+Front end (Angular ).
 
 *	[Ecommerce-Front-Angular](https://github.com/othmaneHadouani/Ecommerce-Front-Angular).
